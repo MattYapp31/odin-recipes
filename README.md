@@ -1,1 +1,1 @@
-In this project I will be displaying my knowledge of writing code in HTML format. The project will be designeing a simple receipe webpage, that has various links to different types of receipes - including images. The desgin will look cery basic, as it will only include HTML code.
+In this project I will be displaying my knowledge of writing code in HTML format. The project will be designing a simple recipe webpage, that has various links to different types of recipes - including images. The desgin will look very basic, as it will only include HTML code.
