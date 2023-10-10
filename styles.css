@@ -1,0 +1,28 @@
+#title {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #cca8e9;
+    font-size: 60px;
+}
+
+#chef {
+    height: auto;
+    width: 250px;
+    image-rendering: crisp-edges;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+.recipes {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    background-color: salmon;
+    
+}
+
+body {
+    background-color: lightpink;
+}
